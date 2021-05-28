@@ -30,6 +30,10 @@ button:hover{
     background-color: rgb(252, 115, 61);
 }
 
+button:active{
+    background-color:rgb(248, 70, 0);
+}
+
 h1{
     font-size: 40px;
     position:relative;
@@ -47,10 +51,17 @@ h2{
 .good{
     background-color: green;
 }
+.good:active{
+    background-color: green;
+}
 
 .bad{
     background-color: red;
 }
+.bad:active{
+    background-color: red;
+}
+
 
 .boutons{
     flex-direction: column;
