@@ -103,4 +103,10 @@ h2{
         max-width: 50vh;
         flex-wrap: wrap;
     }
+    .bad{
+        background-color: red;
+    }
+    .good{
+        background-color: green;
+    }
 }
