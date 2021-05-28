@@ -51,15 +51,15 @@ h2{
 .good{
     background-color: green;
 }
-.good:active{
-    background-color: green;
+.good:hover{
+    background-color: rgb(8, 185, 8);
 }
 
 .bad{
     background-color: red;
 }
-.bad:active{
-    background-color: red;
+.bad:hover{
+    background-color: rgb(253, 51, 51);
 }
 
 
