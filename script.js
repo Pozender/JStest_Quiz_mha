@@ -15,7 +15,7 @@ const question1 = {
     reponse : "One for all"
 };
 const question2 = {
-    question: "Laquelle de ces technoques spéciales est une vrai technique de Dark Shadow ?",
+    question: "Laquelle de ces techniques spéciales est une vrai technique de Dark Shadow ?",
     propositions: ['Le regard du cavalier sombre', "Les ailes de l'ange de l'ombre", 'Les griffes acérées du crépuscule', 'Le bec transcandant des thénèbres'],
     reponse: "Les griffes acérées du crépuscule"
 }; 
