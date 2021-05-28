@@ -47,7 +47,7 @@ const question7 = {
 
 const question8 = {
     question: "Pourquoi  Shoto a une cicatrice à l'oeil ?",
-    propositions : ["Il s'est cogné contre une plaque de cuisson en jouant avec sa soeur", "Son père l'a brulé pour le forcer à utimiser ses flames" , "Sa mère lui a versé de l'eau bouillante sur la figure", "Il s'est brulé en essayant ses propres flames"],
+    propositions : ["Il s'est cogné contre une plaque de cuisson en jouant avec sa soeur", "Son père l'a brulé pour le forcer à utiliser ses flames" , "Sa mère lui a versé de l'eau bouillante sur la figure", "Il s'est brulé en essayant ses propres flames"],
     reponse: "Sa mère lui a versé de l'eau bouillante sur la figure"
 }
 const question9 = {
