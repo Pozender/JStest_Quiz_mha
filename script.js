@@ -60,8 +60,58 @@ const question10 = {
     propositions: ["Le sel le rends plus fort", "Les enchois le rendent invincible (pendant une durée limitée)","Le sucre le rends plus fort","Le chocolat le rends plus énervé"],
     reponse:"Le sucre le rends plus fort"
 }
+const question11 = {
+    question:"Combien il y a t-il de fillières à UA",
+    propositions: ["8", "4", "3","6"],
+    reponse: "4"
+}
+const question12 = {
+    question:"Comment s'appelle la dernierre attaque d'All Might sur All for one",
+    propositions: ["United States of smash","Detroit Smash","Missouri Smash","Alabama Destroy"],
+    reponse: "United States of smash"
+}
+const question13 = {
+    question:"Quel était le nombre de points que vallait le robot abatu par Midoria lors de l'admission",
+    propositions: ["1","3","200","0"],
+    reponse: "0"
+}
+const question14 = {
+    question:"A la remise des prix combien de points récolte Midoria",
+    propositions: ["40","59","61","60"],
+    reponse: "60"
+}
+const question15 ={
+    question: "Comment s'appelle l'ancien collègue d'All Might",
+    propositions: ["Tomura Shigaraki","Night","Eraser Head","Night Eye"],
+    reponse: "Night Eye"
+}
+const question16 ={
+    question: "Comment s'appelle la seul fille du groupe des supers vilains",
+    propositions: ["Raphaelle", "Ochaco Oraraca", "Himiko Toga", "Axelle"],
+    reponse: "Himiko Toga"
+}
+const question17 = {
+    question : "Quelle est la position de Fumikage dans le tournoi de UA",
+    propositions: ["1er","2ième","3ième", "4ième"],
+    reponse: "3ième"
+}
+const question18 = {
+    question: "Quelle est la motivation de Stain",
+    propositions: ["Car ils lui ont pas dis Bonjour", "Car il à une haine des héros", "Eliminer ceux qui ont réussi là ou il a échoué", "Eliminer les héros corompu"],
+    reponse: "Eliminer les héros corompu"
+}
+const question19 = {
+    question : "Quel est le nom du groupe mafieux dans la saison 4",
+    propositions: ["Les huit préceptes de la mort", "Les seepts préceptes de la morts", "les septs péché capitaux", "Les huits péchés capitaux"],
+    reponse: "Les huit préceptes de la mort"
+}
+const question20 = {
+    question: "A la plage combiens de personnes reconnaissent All Might",
+    propositions: ["4", "5", "3", "2"],
+    reponse: "2",
+}
 
-const questions = [question1, question2, question3, question4, question5, question6, question7, question8, question9, question10];
+const questions = [question1, question2, question3, question4, question5, question6, question7, question8, question9, question10, question11, question12,question13,question14,question15,question16,question17,question18,question19,question20];
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
